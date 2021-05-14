@@ -3,7 +3,7 @@ Integration of Athens with Witeboard.com for drawing support with the help of Al
 
 ## Requirements
 * Mac with alfred powerpack installed for the alfred snippet
-* Any device that support (Expanso)[https://github.com/federico-terzi/espanso]
+* Any device that support [Expanso](https://github.com/federico-terzi/espanso)
 
 ## Demo
 [Loom Recording](https://www.loom.com/share/839e0ea8b356478f93aae8bee4a6db9d)
